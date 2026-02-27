@@ -264,6 +264,8 @@ Scalable data analytics
 | Data Scarcity         | Limited spoiled food datasets      | Synthetic data and prompt tuning      |
 | False Positives       | Safe food flagged as risky         | Human verification for low confidence |
 
+<br>
+
 ---
 
 # ⚙️ Installation & Setup
@@ -274,21 +276,21 @@ Scalable data analytics
 
 Before setting up the project, ensure the following are installed:
 
-1. Flutter SDK
+#### 1. Flutter SDK
 
    * Version >= 3.0
    * Installation guide: [Flutter Official Docs](https://flutter.dev/docs/get-started/install)
 
-2. Android Studio or VS Code
+#### 2. Android Studio or VS Code
 
    * Required for Android builds and emulator testing.
 
-3. Firebase Account
+#### 3. Firebase Account
 
    * Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
    * Enable Authentication (Email/Password) and Cloud Firestore
 
-4. Git
+#### 4. Git
 
    * For cloning the project repository
    * Download: [Git](https://git-scm.com/downloads)
@@ -302,13 +304,17 @@ Before setting up the project, ensure the following are installed:
       git clone https://github.com/<your-username>/<your-repo>.git
       cd <your-repo>
 
+<br>
+
 ### Step 2 - Install Flutter dependencies
 
       flutter pub get
 
+<br>
+
 ### Step 3 - Connect Firebase
 
-1️⃣ Create Firebase Project
+#### 1️⃣ Create Firebase Project
 
 1. Go to Firebase Console
 
@@ -319,7 +325,7 @@ Before setting up the project, ensure the following are installed:
    * Authentication → Email/Password
    * Cloud Firestore
 
-2️⃣ Add Android App
+#### 2️⃣ Add Android App
 
 1. Register Android app in Firebase
 
@@ -329,7 +335,7 @@ Before setting up the project, ensure the following are installed:
 
          android/app/google-services.json
 
-3️⃣ Add iOS App (Optional)
+#### 3️⃣ Add iOS App (Optional)
 
 1. Register iOS app
 
@@ -339,26 +345,54 @@ Before setting up the project, ensure the following are installed:
 
          ios/Runner/GoogleService-Info.plist
 
-4️⃣ Configure FlutterFire (Recommended)
+#### 4️⃣ Configure FlutterFire (Recommended)
 
       dart pub global activate flutterfire_cli
       flutterfire configure
 
 <br>
-***
 
 ### Step 4 - Enable Maps & Routing
 
-* OpenStreetMap and OSRM API are integrated for routing
-* Google Maps can be integrated optionally
+#### 1.Go to Google Cloud Console
+
+#### 2. Enable:
+
+   - Maps SDK for Android
+   - Maps SDK for iOS
+   - Directions API (if used)
+
+#### 3. Add your API key inside:
+
+      android/app/src/main/AndroidManifest.xml
 
 <br>
 
-### Step 5 - Check environment
+### Step 5 - Run the Application
 
-      flutter doctor
+▶ Run on Chrome (Web)
 
-- Ensure there are no critical issues
+      flutter run -d chrome
+
+▶ Run on Android Device / Emulator
+      
+      flutter run
+
+<br>
+
+### Step 6 - Build Release Version
+
+▶ Android APK
+      
+      flutter build apk --release
+
+▶ Web Build
+
+      flutter build web
+
+<br>
+
+### ✅ Setup Complete
 
 <br>
 
