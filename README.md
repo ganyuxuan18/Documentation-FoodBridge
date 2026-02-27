@@ -354,15 +354,15 @@ Before setting up the project, ensure the following are installed:
 
 ### Step 4 - Enable Maps & Routing
 
-#### 1.Go to Google Cloud Console
+#### 1️⃣ Go to Google Cloud Console
 
-#### 2. Enable:
+#### 2️⃣ Enable:
 
    - Maps SDK for Android
    - Maps SDK for iOS
    - Directions API (if used)
 
-#### 3. Add your API key inside:
+#### 3️⃣ Add your API key inside:
 
       android/app/src/main/AndroidManifest.xml
 
@@ -370,11 +370,11 @@ Before setting up the project, ensure the following are installed:
 
 ### Step 5 - Run the Application
 
-▶ Run on Chrome (Web)
+#### ▶ Run on Chrome (Web)
 
       flutter run -d chrome
 
-▶ Run on Android Device / Emulator
+#### ▶ Run on Android Device / Emulator
       
       flutter run
 
@@ -382,11 +382,11 @@ Before setting up the project, ensure the following are installed:
 
 ### Step 6 - Build Release Version
 
-▶ Android APK
+#### ▶ Android APK
       
       flutter build apk --release
 
-▶ Web Build
+#### ▶ Web Build
 
       flutter build web
 
