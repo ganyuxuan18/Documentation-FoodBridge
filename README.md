@@ -1,13 +1,12 @@
 # 🌍 FoodBridge
 
-<div align="center"> 🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.** </div>
+#### <div align="center"> 🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.** </div>
 
 ---
 
 ## 👥 Team Introduction
 
-<div align="center">  Welcome to our project repository!
-We are **Team Success 404**, a passionate team dedicated to building innovative and impactful solutions.
+### <div align="center">  Welcome to our project repository! <br> We are **Team Success 404**, a passionate team dedicated to building innovative and impactful solutions.
 </div>
 
 <br>
