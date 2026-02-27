@@ -57,7 +57,9 @@ Target 2.1: End hunger and ensure access to safe, nutritious food.
 
 <br>
 
-![SDG 11 - Sustainable Cities and Communities](https://img.shields.io/badge/SDG_11-Sustainable_Cities-D27C2C?style=for-the-badge)
+![SDG 11](https://img.shields.io/badge/SDG_11-Sustainable-D27C2C?style=for-the-badge)
+![SDG 11](https://img.shields.io/badge/-Cities_and_Communities-D27C2C?style=for-the-badge)
+
 
 ### SDG 11 – Sustainable Cities and Communities
 
