@@ -57,7 +57,7 @@ Target 2.1: End hunger and ensure access to safe, nutritious food.
 
 <br>
 
-![SDG 11 - Sustainable Cities and Communities](https://img.shields.io/badge/SDG_11-Sustainable_Cities-and-Communities-D27C2C?style=for-the-badge)
+![SDG 11 - Sustainable Cities and Communities](https://img.shields.io/badge/SDG_11-Sustainable_Cities-D27C2C?style=for-the-badge)
 
 ### SDG 11 – Sustainable Cities and Communities
 
@@ -65,7 +65,7 @@ Target 11.6: Reduce environmental impact of cities, including waste management.
 
 <br>
 
-![SDG 12 - Responsible Consumption and Production](https://img.shields.io/badge/SDG_12-Responsible_Consumption-and-Production-BF8B2E?style=for-the-badge)
+![SDG 12 - Responsible Consumption and Production](https://img.shields.io/badge/SDG_12-Responsible_Consumption-BF8B2E?style=for-the-badge)
 
 ### SDG 12 – Responsible Consumption and Production
 
