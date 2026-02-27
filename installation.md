@@ -1,4 +1,3 @@
-### **1️⃣ INSTALLATION.md**
 
 ````markdown
 # FoodBridge - Installation Guide
