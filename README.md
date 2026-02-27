@@ -97,18 +97,20 @@ Target 12.3: Halve per capita global food waste at retail and consumer levels.
 
    System stores waste metrics and volumes for pattern analysis and optimization.
 
+<br>
+
 ---
 
 # ✨ Key Features
 
 * Surplus Prediction Model
-* 
+  
 * Smart NGO Matching Algorithm
-*
+
 * Intelligent Route Generation
-*
+
 * Real-time Inventory Dashboard
-*
+
 * Impact Analytics Tracking
 
 <br>
@@ -116,9 +118,9 @@ Target 12.3: Halve per capita global food waste at retail and consumer levels.
 ## 🚀 Value Proposition
 
 * Faster response
-* 
-*Reduce food waste
-*
+
+* Reduce food waste
+
 *  Transparent impact tracking
 
 <br>
@@ -247,6 +249,8 @@ Scalable data analytics
 
    BigQuery stores data for weekly pattern insights.
 
+<br>
+
 ---
 
 # 🧩 Challenges Faced
@@ -272,7 +276,7 @@ Scalable data analytics
 
 (Add instructions)
 
-
+<br>
 
 ## 🎥 Demonstration Video
 
@@ -286,19 +290,19 @@ Scalable data analytics
 
 Manual Listing and Standard Routing → Predictive Forecasting → Hunger Heatmaps
 
-### Year 1 – City Pilot
+### Year 1 – City Pilot 🏗️
 
 * 20–30% waste reduction
 * Baseline impact metrics
 * UX improvement
 
-### Year 2 – Ecosystem Scale Integration
+### Year 2 – Ecosystem Scale Integration 🛡️
 
 * Municipal waste system integration
 * Public API for logistics partners
 * Corporate ESG reporting
 
-### Year 3 – Marketplace Expansion
+### Year 3 – Marketplace Expansion 📊
 
 * Multi-city rollout (Penang, JB, Singapore)
 * National smart infrastructure
