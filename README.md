@@ -327,7 +327,7 @@ Before setting up the project, ensure the following are installed:
 
 3. Place it inside:
 
-      android/app/google-services.json
+         android/app/google-services.json
 
 3️⃣ Add iOS App (Optional)
 
@@ -337,7 +337,7 @@ Before setting up the project, ensure the following are installed:
 
 3. Place it inside:
 
-      ios/Runner/GoogleService-Info.plist
+         ios/Runner/GoogleService-Info.plist
 
 4️⃣ Configure FlutterFire (Recommended)
 
