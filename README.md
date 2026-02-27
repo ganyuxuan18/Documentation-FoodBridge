@@ -1,6 +1,6 @@
 # 🌍 FoodBridge
 
-#### <div align="center"> 🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.** </div>
+### <div align="center"> 🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.** </div>
 
 ---
 
