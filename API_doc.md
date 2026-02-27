@@ -1,5 +1,3 @@
-### **API_DOC.md**
-
 # FoodBridge - API Documentation
 
 FoodBridge uses **Firebase Firestore** as the backend for storing foods, tracking metrics, and managing users. This document describes the Firestore structure, fields, and CRUD operations.
