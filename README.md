@@ -67,7 +67,8 @@ Target 11.6: Reduce environmental impact of cities, including waste management.
 
 <br>
 
-![SDG 12 - Responsible Consumption and Production](https://img.shields.io/badge/SDG_12-Responsible_Consumption-BF8B2E?style=for-the-badge)
+![SDG 12](https://img.shields.io/badge/SDG_12-Responsible-4C9F38?style=for-the-badge)
+![SDG 12](https://img.shields.io/badge/-Consumption_and_Production-4C9F38?style=for-the-badge)
 
 ### SDG 12 – Responsible Consumption and Production
 
