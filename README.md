@@ -283,7 +283,7 @@ Before setting up the project, ensure the following are installed:
 
 #### 2. Android Studio or VS Code
 
-   * Required for Android builds and emulator testing.
+   * Required for Android builds and emulator testing.(with Flutter & Dart extensions)
 
 #### 3. Firebase Account
 
@@ -301,8 +301,11 @@ Before setting up the project, ensure the following are installed:
 
 ### Step 1 - Clone the repository
 
-      git clone https://github.com/<your-username>/<your-repo>.git
-      cd <your-repo>
+      cd C:\Users\User\Documents  # Or any folder you want to keep your projects
+      git clone https://github.com/ganyuxuan18/Documentation-FoodBridge.git
+      cd Documentation-FoodBridge/foodBridge_app
+
+#### ⚠️ Important: The actual Flutter project is inside the foodBridge_app folder, not the root Documentation-FoodBridge folder.
 
 <br>
 
@@ -329,7 +332,9 @@ Before setting up the project, ensure the following are installed:
 
 1. Register Android app in Firebase
 
-2. Download google-services.json
+2. Download
+
+      google-services.json
 
 3. Place it inside:
 
@@ -339,11 +344,13 @@ Before setting up the project, ensure the following are installed:
 
 1. Register iOS app
 
-2. Download GoogleService-Info.plist
+2. Download
+
+      GoogleService-Info.plist
 
 3. Place it inside:
 
-         ios/Runner/GoogleService-Info.plist
+      ios/Runner/GoogleService-Info.plist
 
 #### 4️⃣ Configure FlutterFire (Recommended)
 
