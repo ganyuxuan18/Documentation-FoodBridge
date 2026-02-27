@@ -268,13 +268,97 @@ Scalable data analytics
 
 # ⚙️ Installation & Setup
 
-### Step 1
+## Installation
 
-(Add instructions)
+### Prerequisites
 
-### Step 2
+Before setting up the project, ensure the following are installed:
 
-(Add instructions)
+1. Flutter SDK
+
+   * Version >= 3.0
+   * Installation guide: [Flutter Official Docs](https://flutter.dev/docs/get-started/install)
+
+2. Android Studio or VS Code
+
+   * Required for Android builds and emulator testing.
+
+3. Firebase Account
+
+   * Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
+   * Enable Authentication (Email/Password) and Cloud Firestore
+
+4. Git
+
+   * For cloning the project repository
+   * Download: [Git](https://git-scm.com/downloads)
+
+<br>
+
+## Setup
+
+### Step 1 - Clone the repository
+
+      git clone https://github.com/<your-username>/<your-repo>.git
+      cd <your-repo>
+
+### Step 2 - Install Flutter dependencies
+
+      flutter pub get
+
+### Step 3 - Connect Firebase
+
+1️⃣ Create Firebase Project
+
+1. Go to Firebase Console
+
+2. Click Create Project
+
+3. Enable:
+
+   * Authentication → Email/Password
+   * Cloud Firestore
+
+2️⃣ Add Android App
+
+1. Register Android app in Firebase
+
+2. Download google-services.json
+
+3. Place it inside:
+
+      android/app/google-services.json
+
+3️⃣ Add iOS App (Optional)
+
+1. Register iOS app
+
+2. Download GoogleService-Info.plist
+
+3. Place it inside:
+
+      ios/Runner/GoogleService-Info.plist
+
+4️⃣ Configure FlutterFire (Recommended)
+
+      dart pub global activate flutterfire_cli
+      flutterfire configure
+
+<br>
+***
+
+### Step 4 - Enable Maps & Routing
+
+* OpenStreetMap and OSRM API are integrated for routing
+* Google Maps can be integrated optionally
+
+<br>
+
+### Step 5 - Check environment
+
+      flutter doctor
+
+- Ensure there are no critical issues
 
 <br>
 
