@@ -1,221 +1,249 @@
-🌍 FoodBridge
+# 🌍 FoodBridge
 
-🔎 FoodBridge addresses the urban food waste and food insecurity paradox.
+🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.**
 
-👥 Team Introduction
+---
+
+## 👥 Team Introduction
 
 Welcome to our project repository!
-We are Team Success 404, a passionate team dedicated to building innovative and impactful solutions.
+We are **Team Success 404**, a passionate team dedicated to building innovative and impactful solutions.
 
-👤 Team Members
-Name	Universiti	GitHub
-Gan Yu Xuan	Universiti Teknologi Malaysia	@ganyuxuan18
+---
 
-Jasmine Chin Ying Hui	Universiti Malaya	@jasmineyh
+## 👤 Team Members
 
-Hee Hui En	Universiti Teknologi Malaysia	@heehuien
+| Name                  | Universiti                    | GitHub                                         |
+| --------------------- | ----------------------------- | ---------------------------------------------- |
+| Gan Yu Xuan           | Universiti Teknologi Malaysia | [@ganyuxuan18](https://github.com/ganyuxuan18) |
+| Jasmine Chin Ying Hui | Universiti Malaya             | [@jasmineyh](https://github.com/jasmineyh)     |
+| Hee Hui En            | Universiti Teknologi Malaysia | [@heehuien](https://github.com/heehuien)       |
+| Chia Jin Yi           | Universiti Malaya             | [@username](https://github.com/username)       |
 
-Chia Jin Yi	Universiti Malaya	@username
-📌 Project Overview
-❓ Problem Statements
+---
 
-Massive Food Waste
-A large amount of edible food thrown away daily.
+# 📌 Project Overview
 
-Access Barriers
+## ❓ Problem Statements
 
-Donors have food but no transport
+1. **Massive Food Waste**
+   A large amount of edible food thrown away daily.
 
-NGOs have needs but no real-time data
+2. **Access Barriers**
 
-Information Gap
-A manual phone-tag system cannot solve a real-time logistics problem.
+   * Donors have food but no transport
+   * NGOs have needs but no real-time data
 
-Food Spoils Before Redistribution
-Surplus food has a lifespan of hours, not days.
+3. **Information Gap**
+   A manual phone-tag system cannot solve a real-time logistics problem.
 
-🌍 Sustainable Development Goals
-SDG 2 – Zero Hunger
+4. **Food Spoils Before Redistribution**
+   Surplus food has a lifespan of hours, not days.
+
+---
+
+# 🌍 Sustainable Development Goals
+
+### SDG 2 – Zero Hunger
 
 Target 2.1: End hunger and ensure access to safe, nutritious food.
 
-SDG 11 – Sustainable Cities and Communities
+### SDG 11 – Sustainable Cities and Communities
 
 Target 11.6: Reduce environmental impact of cities, including waste management.
 
-SDG 12 – Responsible Consumption and Production
+### SDG 12 – Responsible Consumption and Production
 
 Target 12.3: Halve per capita global food waste at retail and consumer levels.
 
-💡 Description Solution
+---
 
-Donor Upload
-Uploads the food to the platform.
+# 💡 Description Solution
 
-AI Classification
-AI evaluates food freshness and potential risk.
+1. **Donor Upload**
+   Uploads the food to the platform.
 
-Urgency Scoring
-System categorizes and prioritizes items flagged as urgent.
+2. **AI Classification**
+   AI evaluates food freshness and potential risk.
 
-NGO Matching
-AI ensures a high-precision match based on location, cause, and operational transparency.
+3. **Urgency Scoring**
+   System categorizes and prioritizes items flagged as urgent.
 
-Route Generation
-System generates clear navigation routes for volunteers.
+4. **NGO Matching**
+   AI ensures a high-precision match based on location, cause, and operational transparency.
 
-Delivery
-System stores waste metrics and volumes for pattern analysis and optimization.
+5. **Route Generation**
+   System generates clear navigation routes for volunteers.
 
-✨ Key Features
+6. **Delivery**
+   System stores waste metrics and volumes for pattern analysis and optimization.
 
-Surplus Prediction Model
+---
 
-Smart NGO Matching Algorithm
+# ✨ Key Features
 
-Intelligent Route Generation
+* Surplus Prediction Model
+* Smart NGO Matching Algorithm
+* Intelligent Route Generation
+* Real-time Inventory Dashboard
+* Impact Analytics Tracking
 
-Real-time Inventory Dashboard
+---
 
-Impact Analytics Tracking
+# 🚀 Value Proposition
 
-🚀 Value Proposition
+* Faster response
+* Reduce food waste
+* Transparent impact tracking
 
-Faster response
+---
 
-Reduce food waste
+# 🤖 Google AI Technologies
 
-Transparent impact tracking
-
-🤖 Google AI Technologies
-Cloud Functions
+### Cloud Functions
 
 Event-driven AI processing
 
-Automatically triggers Gemini processing when new food data is uploaded.
+* Automatically triggers Gemini processing when new food data is uploaded.
 
-Google Maps API
+### Google Maps API
 
 Route generation
 
-Calculates distance and travel time estimation for efficient pickups.
+* Calculates distance and travel time estimation for efficient pickups.
 
-Gemini API
+### Gemini API
 
 AI classification & matching
 
-Classifies food items, predicts spoilage risk, and generates priority scores.
+* Classifies food items, predicts spoilage risk, and generates priority scores.
 
-🛠 Google Developer Technologies
-Flutter
+---
+
+# 🛠 Google Developer Technologies
+
+### Flutter
 
 Cross-platform development (Android & iOS)
 
-Single codebase with consistent user experience.
+* Single codebase with consistent user experience.
 
-Firebase Firestore
+### Firebase Firestore
 
 Real-time database
 
-Stores food uploads, NGO requests, and volunteer activities.
+* Stores food uploads, NGO requests, and volunteer activities.
+* Provides real-time updates and seamless Google integration.
 
-Provides real-time updates and seamless Google integration.
-
-BigQuery
+### BigQuery
 
 Scalable data analytics
 
-Identifies surplus food patterns, delivery efficiency, and spoilage trends.
+* Identifies surplus food patterns, delivery efficiency, and spoilage trends.
 
-🧠 Implementation Details & Innovation
-🧰 System Architecture
-Frontend
+---
 
-Flutter App (Cross-platform UI)
+# 🧠 Implementation Details & Innovation
 
-Backend
+## 🧰 System Architecture
 
-Firebase Firestore (Real-time database)
+### Frontend
 
-Cloud Functions (Trigger AI processing)
+* Flutter App (Cross-platform UI)
 
-Analysis
+### Backend
 
-BigQuery (Surplus pattern analysis)
+* Firebase Firestore (Real-time database)
+* Cloud Functions (Trigger AI processing)
 
-Routing
+### Analysis
 
-Google Maps API (Route generation)
+* BigQuery (Surplus pattern analysis)
 
-AI Layer
+### Routing
 
-Gemini API (Spoilage classification)
+* Google Maps API (Route generation)
 
-🔄 Workflow
+### AI Layer
 
-Donor Upload
-Describe image, food type, and quantity.
+* Gemini API (Spoilage classification)
 
-AI Processing
-Gemini analyzes food category and estimates risk level.
+---
 
-Smart Matching Engine
-AI calculates urgency score and matches nearby volunteers.
+# 🔄 Workflow
 
-Route Generation
-Google Maps API calculates distance, time estimation, and pickup sequence.
+1. **Donor Upload**
+   Describe image, food type, and quantity.
 
-Delivery
-Digital handshake verifies condition and quantity.
+2. **AI Processing**
+   Gemini analyzes food category and estimates risk level.
 
-Analytics
-BigQuery stores data for weekly pattern insights.
+3. **Smart Matching Engine**
+   AI calculates urgency score and matches nearby volunteers.
 
-🧩 Challenges Faced
-Challenge	Description	Solution
-Data Quality	Incomplete donor inputs	Visual status and countdown timer
-Food Safety	Spoilage uncertainty	AI extraction and risk scoring
-Real-time Sync Issues	Volunteers arriving at empty shops	Real-time matching with Gemini
-Cold Chain	Temperature-sensitive transport	“Needs Cooler” flags and guidelines
-Data Scarcity	Limited spoiled food datasets	Synthetic data and prompt tuning
-False Positives	Safe food flagged as risky	Human verification for low confidence
-⚙️ Installation & Setup
-Step 1
+4. **Route Generation**
+   Google Maps API calculates distance, time estimation, and pickup sequence.
+
+5. **Delivery**
+   Digital handshake verifies condition and quantity.
+
+6. **Analytics**
+   BigQuery stores data for weekly pattern insights.
+
+---
+
+# 🧩 Challenges Faced
+
+| Challenge             | Description                        | Solution                              |
+| --------------------- | ---------------------------------- | ------------------------------------- |
+| Data Quality          | Incomplete donor inputs            | Visual status and countdown timer     |
+| Food Safety           | Spoilage uncertainty               | AI extraction and risk scoring        |
+| Real-time Sync Issues | Volunteers arriving at empty shops | Real-time matching with Gemini        |
+| Cold Chain            | Temperature-sensitive transport    | “Needs Cooler” flags and guidelines   |
+| Data Scarcity         | Limited spoiled food datasets      | Synthetic data and prompt tuning      |
+| False Positives       | Safe food flagged as risky         | Human verification for low confidence |
+
+---
+
+# ⚙️ Installation & Setup
+
+### Step 1
 
 (Add instructions)
 
-Step 2
+### Step 2
 
 (Add instructions)
 
-🎥 Demonstration Video
+---
+
+# 🎥 Demonstration Video
 
 (Add demo video link here)
 
-🔮 Future Roadmap
+---
+
+# 🔮 Future Roadmap
 
 Manual Listing and Standard Routing → Predictive Forecasting → Hunger Heatmaps
 
-Year 1 – City Pilot
+### Year 1 – City Pilot
 
-20–30% waste reduction
+* 20–30% waste reduction
+* Baseline impact metrics
+* UX improvement
 
-Baseline impact metrics
+### Year 2 – Ecosystem Scale Integration
 
-UX improvement
+* Municipal waste system integration
+* Public API for logistics partners
+* Corporate ESG reporting
 
-Year 2 – Ecosystem Scale Integration
+### Year 3 – Marketplace Expansion
 
-Municipal waste system integration
+* Multi-city rollout (Penang, JB, Singapore)
+* National smart infrastructure
+* B2B marketplace for packaging and logistics
 
-Public API for logistics partners
 
-Corporate ESG reporting
-
-Year 3 – Marketplace Expansion
-
-Multi-city rollout (Penang, JB, Singapore)
-
-National smart infrastructure
-
-B2B marketplace for packaging and logistics
+If you want, I can now make a **hackathon-winning premium README version** with visual polish and scoring optimization.
