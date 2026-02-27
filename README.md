@@ -308,5 +308,8 @@ Manual Listing and Standard Routing → Predictive Forecasting → Hunger Heatma
 * National smart infrastructure
 * B2B marketplace for packaging and logistics
 
+<br>
+
+****
 
 ![Page Views](https://komarev.com/ghpvc/?username=ganyuxuan18&repo=Documentation-FoodBridge&label=Page%20Views&style=for-the-badge)
