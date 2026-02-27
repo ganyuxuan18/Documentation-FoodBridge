@@ -1,17 +1,18 @@
 # 🌍 FoodBridge
 
-🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.**
+<div align="center"> 🔎 **FoodBridge addresses the urban food waste and food insecurity paradox.** </div>
 
 ---
 
 ## 👥 Team Introduction
 
-Welcome to our project repository!
+<div align="center">  Welcome to our project repository!
 We are **Team Success 404**, a passionate team dedicated to building innovative and impactful solutions.
+</div>
 
----
+<br>
 
-## 👤 Team Members
+### 👤 Team Members
 
 | Name                  | Universiti                    | GitHub                                         |
 | --------------------- | ----------------------------- | ---------------------------------------------- |
@@ -27,6 +28,7 @@ We are **Team Success 404**, a passionate team dedicated to building innovative 
 ## ❓ Problem Statements
 
 1. **Massive Food Waste**
+   
    A large amount of edible food thrown away daily.
 
 2. **Access Barriers**
@@ -35,14 +37,16 @@ We are **Team Success 404**, a passionate team dedicated to building innovative 
    * NGOs have needs but no real-time data
 
 3. **Information Gap**
+
    A manual phone-tag system cannot solve a real-time logistics problem.
-
+  
 4. **Food Spoils Before Redistribution**
-   Surplus food has a lifespan of hours, not days.
 
----
+    Surplus food has a lifespan of hours, not days.
 
-# 🌍 Sustainable Development Goals
+----
+
+## 🌍 Sustainable Development Goals
 
 ### SDG 2 – Zero Hunger
 
