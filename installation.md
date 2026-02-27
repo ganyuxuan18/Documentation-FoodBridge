@@ -1,5 +1,4 @@
 
-````markdown
 # FoodBridge - Installation Guide
 
 This guide will help you set up the FoodBridge app locally for **development** and **testing**. FoodBridge is a Flutter app using Firebase as backend.
