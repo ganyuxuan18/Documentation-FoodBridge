@@ -18,7 +18,7 @@
 | Gan Yu Xuan           | Universiti Teknologi Malaysia | [@ganyuxuan18](https://github.com/ganyuxuan18) |
 | Jasmine Chin Ying Hui | Universiti Malaya             | [@jasmineyh](https://github.com/jasmineyh)     |
 | Hee Hui En            | Universiti Teknologi Malaysia | [@heehuien](https://github.com/heehuien)       |
-| Chia Jin Yi           | Universiti Malaya             | [@username](https://github.com/username)       |
+| Chia Jin Yi           | Universiti Malaya             | [@25006482-2025](https://github.com/25006482-2025)       |
 
 <br>
 
