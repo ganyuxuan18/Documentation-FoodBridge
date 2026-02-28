@@ -410,7 +410,10 @@ Before setting up the project, ensure the following are installed:
 
 ## 🎥 Demonstration Video
 
-(Add demo video link here)
+[FoodBridge – AI-Powered Food Redistribution Platform | Team SUCCESS 404](https://youtu.be/KpfveLKMKaY)
+
+![demoVid_FoodBridge](https://github.com/user-attachments/assets/01118c9d-0a4a-4447-93da-818315bbba5b)
+
 
 <br>
 
