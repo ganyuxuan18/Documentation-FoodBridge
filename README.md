@@ -275,7 +275,7 @@ Scalable data analytics
 
 # ⚙️ Installation & Setup
 
-## Installation
+## 💻 Installation
 
 ### Prerequisites
 
@@ -302,7 +302,7 @@ Before setting up the project, ensure the following are installed:
 
 <br>
 
-## Setup
+## 📖 Setup
 
 ### Step 1 - Clone the repository
 
